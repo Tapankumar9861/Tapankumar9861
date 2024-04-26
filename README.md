@@ -69,15 +69,17 @@
 <br/>
 <br/>
 <br/>
+<div align="center" style="background-color: black;">
+  <div>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tapankumar9861&show_icons=true&locale=en&layout=compact&bg_color=000000" alt="tapankumar9861" />
+  </div>
+  <br>
+  <div>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tapankumar9861&show_icons=true&locale=en&bg_color=000000" alt="tapankumar9861" />
+  </div>
+  <br>
+  <div>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tapankumar9861&show_icons=true&locale=en&bg_color=000000" alt="tapankumar9861" />
+  </div>
+</div>
 
-<div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tapankumar9861&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="Tapankumar9861"/>
-  <img align="left" width="600" src="https://github-readme-stats.vercel.app/api?username=Tapankumar9861&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="Tapankumar9861" />
-</div>
-<br/>
-<br/>
-<div align="center">
-  <a href="https://github.com/pramodjena/github-readme-status">
-    <img align="left" width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=Tapankumar9861&&theme=highcontrast" alt="Tapankumar9861" />
-  </a>
-</div>
