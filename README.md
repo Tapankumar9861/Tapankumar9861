@@ -5,7 +5,7 @@
 <h4 align="center">👋 A passionate .NET Developer on a mission to craft powerful and user-friendly web applications. My GitHub is a collection of projects and code snippets that showcase my expertise in building full-stack solutions.</h4>
 
 ## About Me
-<img align="right" alt="coding" width="300" height="150" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<img align="right" alt="coding" width="300" height="130" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 - 🏢 I’m looking forward to working as a **Full Stack Web Developer**
 - 💬 Ask me about **C, JAVA, C#, HTML, CSS, JavaScript, Maven**
