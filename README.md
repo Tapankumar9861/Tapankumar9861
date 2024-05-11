@@ -10,7 +10,7 @@
 - 🏢 I’m looking forward to working as a **Full Stack Web Developer**
 - 💬 Ask me about **C, JAVA, C#, HTML, CSS, JavaScript, Maven**
 - 📧 How to reach me: **[kumartapan7560@gmail.com](mailto:kumartapan7560@gmail.com)**
-- 👨‍💻 Know more about me: **[Portfolio](http://127.0.0.1:5500/Portfolio/portfolio-responsive-complete/index.html#skills)** 
+- 👨‍💻 Know more about me: **[Portfolio](http://127.0.0.1:5500/Portfolio/portfolio-responsive-complete/index.html)** 
 - 📄 Check out my **[Resume](#)** 
  
 
