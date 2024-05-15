@@ -19,7 +19,7 @@
 <div align="center">
  <h3 align="center">Connect with me</h3>
   <a href="https://tapankumar9861.github.io/Tapanpatra.github.io/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=%F0%9F%94%AD&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=%F0%9F%94%AD&logoColor=white" alt="Portfolio" style="background:RGB(132, 119, 237)">
   </a>
   <a href="https://www.linkedin.com/in/tapan-kumar-patra-609ab9212/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
