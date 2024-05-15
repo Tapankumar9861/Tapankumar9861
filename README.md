@@ -18,7 +18,7 @@
   
 <div align="center">
  <h3 align="center">Connect with me</h3>
-  <a href="#" style="text-decoration: none;">
+  <a href="http://127.0.0.1:5500/Portfolio/portfolio-responsive-complete/index.html" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=%F0%9F%94%AD&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/tapan-kumar-patra-609ab9212/">
