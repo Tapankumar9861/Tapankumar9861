@@ -11,7 +11,7 @@
 - 💬 Ask me about **C, JAVA, C#, HTML, CSS, JavaScript, Maven**
 - 📧 How to reach me: **[kumartapan7560@gmail.com](mailto:kumartapan7560@gmail.com)**
 - 👨‍💻 Know more about me: **[Portfolio](https://tapankumar9861.github.io/Tapanpatra.github.io/)** 
-- 📄 Check out my **[Resume](#)** 
+- 📄 Check out my **[Resume](https://drive.google.com/drive/u/0/mobile/my-drive?utm_source=en&pli=1&sort=13&direction=a)** 
  
 
 
